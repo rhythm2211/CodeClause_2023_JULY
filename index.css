@@ -1,0 +1,111 @@
+.header{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+body
+{
+    background-size: cover; 
+  background-repeat: no-repeat; 
+  background-position: center;
+
+}
+
+.hero-img{
+    height: 400px;
+    margin-top: 50px;
+}
+
+.left-text{
+    width: 400px;
+    margin-top: 12%;
+}
+
+h2{
+    font-family: 'Bangers', cursive;
+    font-weight: bold;
+    font-size: 50px;
+}
+p{
+    color: rgb(27, 25, 25);
+    margin-top: 20px;
+    font-family: 'Poppins';
+}
+
+.about{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.about h2{
+    font-family: 'Bangers',cursive;
+    padding-left: 20px;
+    margin-top: 100px;
+    font-size: 25px;
+}
+.about-text{
+    width: 50%;
+    padding-top: 50px;
+}
+.about p {
+    margin-top: 0px;
+    margin-left: 50px;
+    font-family: 'Poppins', cursive;
+    ;
+}
+
+.download{
+    width: 100%;
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.download-text{
+    margin-top: 200px;
+}
+
+.download-image{
+    width: 400px;
+    height: 500px;
+}
+
+.logo{
+color: white;
+background-color: black;
+height: 90px;
+
+}
+
+.logo h3{
+    margin-top: 0px;
+    padding-top: 25px;
+    font-family: 'Poppins';
+    padding-left: 20px;
+}
+
+
+.do_more{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.blob{
+    height: 200px;
+    width: 100%;    
+    background-image: linear-gradient(to right, #a8c0ff, #3f2b96);
+    margin-top: 100px;
+    margin-bottom: 50px;
+
+}
+
+.blob h2{
+    text-align: center;
+    padding-top: 80px;
+    color: antiquewhite;
+    font-size: 40px;
+}
